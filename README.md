@@ -1,3 +1,4 @@
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6P4uDzrb6qK3sHnj1VIWCH7bBcTCvaQRLjA&usqp=CAU" alt="" width="500" height="600">
 <h1 align="center">Hi 👋, I'm Niraj Ghetiya</h1>
 <h3 align="center">full stack developer</h3>
 
